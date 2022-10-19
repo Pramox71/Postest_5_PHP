@@ -1,0 +1,26 @@
+/* Register */
+body{
+    background-image: url(../Image/Bg_Login.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body section .container-fluid{
+    background: #383a3d;
+    padding-top: 10vh; 
+    margin-top: 50px; 
+}
+
+form{
+    background: #fff;
+}
+.form-footer_mt-2 a{
+    color: red;
+}
+/* mengatur border dan padding class form-container */
+.form-container{
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 30px;
+}
